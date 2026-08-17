@@ -1,0 +1,4 @@
+course_config.toml
+**/tmc
+**/__pycache__
+**/__init__.py

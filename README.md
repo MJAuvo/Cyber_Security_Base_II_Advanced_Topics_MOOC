@@ -1,0 +1,2 @@
+# Cyber Security Base IV Advanced Topics (MOOC)
+This repo contains source code for programming exercises that are included in the 4<sup>th</sup> part of *Cyber Security Base* course organized by University of Helsinki, Department of Computer Science. 

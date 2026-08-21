@@ -1,2 +1,2 @@
-# Cyber Security Base IV Advanced Topics (MOOC)
+# Cyber Security Base 2025 IV Advanced Topics (MOOC)
 This repo contains source code for programming exercises that are included in the 4<sup>th</sup> part of **Cyber Security Base 2025** course organized by University of Helsinki, Department of Computer Science. The course was held between Autumn 2025 and Spring 2026. 
